@@ -1,4 +1,4 @@
-package day08_StringManipulations;
+package day08_stringManipulations;
 
 public class C03_contains {
     public static void main(String[] args) {
