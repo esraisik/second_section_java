@@ -23,7 +23,6 @@ public class C06_ArrayiListeCevirme {
 
         System.out.println("Sayilar listesi : " + sayilar);
 
-
         // Arrays class'inda bu cevirme islemini yapan hazir bir method var
         // ANCAK 2 buyuk dezavantaji oldugu icin GENELDE kullanilmaz
         // 1. list'in en buyuk avantaji olan ekleme ve remove yapilamaz
@@ -36,12 +35,9 @@ public class C06_ArrayiListeCevirme {
         // arraydenList.add(5); // UnsupportedOperationException
         // arraydenList.remove(3); // UnsupportedOperationException
 
-
         arr[0] = 20;
 
-
         System.out.println("Arrayden list : " + arraydenList);
-
 
     }
 }
